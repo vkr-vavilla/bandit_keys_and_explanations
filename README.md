@@ -125,4 +125,3 @@ Used binary called bandit20-do. It runs command as another user.
 Key: `0qXahG8ZjOVMN9Ghs7iOWsCfZyXOUbYO`
 
 ---
-Bye!
