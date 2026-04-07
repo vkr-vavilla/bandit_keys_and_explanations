@@ -1,4 +1,4 @@
-# Bandit OverTheWire - My random notes
+# Bandit OverTheWire - My notes
 
 Hey, I'm just playing this OverTheWire Bandit game for fun. I keep my keys and some notes here so I don't forget how I did it. Some levels were easy but some others make me crazy.
 
